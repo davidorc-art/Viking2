@@ -1,0 +1,7 @@
+{
+  "name": "Studio Viking Management System",
+  "description": "A comprehensive Viking-themed management platform for tattoo and body piercing studios with integrated bar and shop modules.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
